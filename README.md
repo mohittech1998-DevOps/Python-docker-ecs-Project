@@ -1,4 +1,4 @@
-Docker to AWS ECS Deployment Project 🚀
+Docker to using AWS EC2 IAM Rules,ECS & ECR Deployment Project 🚀
 
 This project is a simple Python Flask application containerized using Docker and prepared for deployment on AWS ECS (Elastic Container Service).
 
